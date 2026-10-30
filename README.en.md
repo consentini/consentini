@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gabriel Consentini</h1>
 
-<p align="center"><a href="https://github.com/gabrielconsentini">Português</a> · <b>English</b></p>
+<p align="center"><a href="https://github.com/consentini">Português</a> · <b>English</b></p>
 
 ---
 
