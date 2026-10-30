@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Gabriel Consentini</h1>
 
-<p align="center"><b>Português</b> · <a href="https://github.com/gabrielconsentini/gabrielconsentini/blob/main/README.en.md">English</a></p>
+<p align="center"><b>Português</b> · <a href="https://github.com/consentini/consentini/blob/main/README.en.md">English</a></p>
 
 ---
 
